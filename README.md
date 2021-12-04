@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AjiteshChandra
+- 👋 Hi, I’m  Ajitesh C
 - 👀 I’m interested in Data analytics , Machine Learning and Programming
 - 🌱 I’m currently learning Data Science 
 - 📫 To reach me - ajiteshchandra02@gmail.com
