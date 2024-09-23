@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Ajitesh C
 - 👀 I’m interested in Data analytics , Machine Learning and Programming
-- 🌱 I’m currently learning Data Science 
+- 🌱 I’m currently pursuing MSc in Statistics 
 - 📫 To reach me - ajiteshchandra02@gmail.com
 
 <!---
